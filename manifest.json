@@ -1,0 +1,26 @@
+{
+  "name": "FaceForge — AI顔採点",
+  "short_name": "FaceForge",
+  "description": "本音で教える、あなたの魅力と伸びしろ。AIが顔を採点してモテアドバイスを届けます。",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fdf8ff",
+  "theme_color": "#e87fa0",
+  "lang": "ja",
+  "categories": ["lifestyle", "health", "entertainment"],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
